@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "9ae48cd3e995ca88",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d7bcbdf4e528741",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "172587131a14a1a2",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "full-calendar-view",
+              "state": {},
+              "pinned": true,
+              "icon": "calendar-glyph",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "144c8cb0cedd03d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Classes/03 - English/01 - 9 Days/05 - English Essay.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "05 - English Essay"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c9c246d623f09e2e",
+    "type": "split",
+    "children": [
+      {
+        "id": "d742d561c4042bc3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1411d062e50ac172",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "849e5e58566dbc0c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "518f891043f2d484",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 264.5
+  },
+  "right": {
+    "id": "9e0a075f6262c542",
+    "type": "split",
+    "children": [
+      {
+        "id": "794fdf3c780faf3a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a87038e5cb8429f1",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 268.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "command-palette:Open command palette": true,
+      "switcher:Open quick switcher": true,
+      "graph:Open graph view": true,
+      "canvas:Create new canvas": true,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": true,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-day-planner:Open Timeline": false,
+      "obsidian-day-planner:Open Multi-Day View": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "homepage:Open homepage": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-projects:Open projects": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "1411d062e50ac172",
+  "lastOpenFiles": [
+    "02 - Classes/03 - English/01 - 9 Days/04 - Notes.md",
+    "02 - Classes/03 - English/01 - 9 Days/05 - English Essay.md",
+    "02 - Classes/00 - Math General/GeneralTextbook.pdf",
+    "00 - Daily Notes/00 - Notes/Mon  05-May-2025.md",
+    "02 - Classes/01 - Math Methods/Methods Textbook.pdf",
+    "02 - Classes/01 - Math Methods/Graph Template.tns",
+    "02 - Classes/03 - English/01 - 9 Days/00 - Presentation notes.md",
+    "02 - Classes/01 - Math Methods/Methods12_2ed_full.pdf",
+    "02 - Classes/04 - Physics/03 - Area of Study 1/00 - Waves.md",
+    "02 - Classes/01 - Math Methods/Untitled.md",
+    "03 - Projects/03 - Visual Communication Design/00 - Unit 1/AOS2/Final Complied 2.pdf",
+    "03 - Projects/03 - Visual Communication Design/00 - Unit 1/AOS2/~untitled-1~c(bpd1.idlk",
+    "03 - Projects/03 - Visual Communication Design/00 - Unit 1/AOS2/BRIEF+TEMPLATE - Unit 1.pdf",
+    "03 - Projects/03 - Visual Communication Design/00 - Unit 1/~brief+template - u~wt7pa6.idlk",
+    "02 - Classes/04 - Physics/03 - Area of Study 1/01 - Here comes the sun.md",
+    "02 - Classes/04 - Physics/03 - Area of Study 1/02 - Light.md",
+    "03 - Projects/03 - Visual Communication Design/00 - Unit 1/AOS2/Render EgorE 2.png",
+    "03 - Projects/03 - Visual Communication Design/00 - Unit 1/AOS2/Render EgorE.png",
+    "03 - Projects/03 - Visual Communication Design/00 - Unit 1/AOS2/egore.png",
+    "03 - Projects/03 - Visual Communication Design/00 - Unit 1/AOS2/egore.dn",
+    "03 - Projects/03 - Visual Communication Design/00 - Unit 1/AOS2/Egore3 render.png",
+    "03 - Projects/03 - Visual Communication Design/00 - Unit 1/AOS2/Untitled.dn",
+    "03 - Projects/03 - Visual Communication Design/00 - Unit 1/Design Research.md",
+    "03 - Projects/03 - Visual Communication Design/00 - Unit 1/Design brief ideas.md",
+    "02 - Classes/03 - English/01 - 9 Days/03 - Practice Essay.md",
+    "06 - Future Events/01 - Upcoming Assesments/2025-05-23 General Sac Part 2.md",
+    "06 - Future Events/01 - Upcoming Assesments/2025-05-16 General Sac Part 1.md",
+    "02 - Classes/03 - English/01 - 9 Days/01 - Prompts.md",
+    "02 - Classes/04 - Physics/02 - Area of Study 2/06 - Darn nuclear fish.md",
+    "04 - Images/04 - Physics/{611537FA-0E7A-42EB-B8B5-42AB204421DA}.png",
+    "04 - Images/04 - Physics/{9012D34F-26E1-4F36-83F5-FF5F00976CB6}.png",
+    "02 - Classes/03 - English/01 - 9 Days/02 - List of choices avaliable to chara.md",
+    "02 - Classes/04 - Physics/03 - Area of Study 1.md",
+    "03 - Projects/04 - English/03 - Practice Task 2.md",
+    "06 - Future Events/01 - Upcoming Assesments/2025-04-30 Nuclear Test.md",
+    "00 - Daily Notes/00 - Notes/Wed  23-Apr-2025.md",
+    "02 - Classes/04 - Physics/02 - Area of Study 2/04 - Nuclear Energy.md",
+    "02 - Classes/04 - Physics/02 - Area of Study 2/02 - 4.3.md",
+    "02 - Classes/04 - Physics/02 - Area of Study 2/03 - 4.4.md",
+    "02 - Classes/04 - Physics/02 - Area of Study 2/07 - Nucleah powah.md",
+    "02 - Classes/02 - Applied Computing/12 - Object Oriented Programming.md",
+    "06 - Future Events/02 - School Events/2025-08-03 Fencing - Indv Champion.md",
+    "04 - Images/05 - Visual Communication Design/inline_image_preview.jpg",
+    "04 - Images/02 - Applied Computing/Pasted image 20250320093600.png",
+    "04 - Images/05 - Visual Communication Design/Loop Chair II.webp",
+    "04 - Images/05 - Visual Communication Design/Person in apartment.jpg",
+    "01 - Home/Home.canvas",
+    "Untitled.canvas"
+  ]
+}

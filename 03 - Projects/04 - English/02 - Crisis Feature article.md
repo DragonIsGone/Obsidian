@@ -1,0 +1,15 @@
+---
+tags:
+  - english
+---
+[[11 - Crisis of fashion industry]]
+
+# The Fashion Industries' Tipping Point, For Better or For Worse
+
+The fashion industry is plagued with ethical problems that are swept under the rug. From exploitative labour to dumping waste in developing countries, there are many yet unseen and ignored prices consumers pay for their cheap fast fashion. The fashion industry always looks to decrease losses made on the manufacturing of the products, which leads to countries. The rapidly changing fashion season means that many of the products are never sold to customers, leading to them lying in waste in developing countries. 
+
+The fashion industry is large, one of the largest in the world with approximately 2% of the GDP, however a lot of the industry uses the same exploitative tactics to make clothes with minimal expenses. The exploited labourers of the fashion industry are promised money to help their families. At the same time, only about 2% of garment workers earn what is considered a "Living wage" this is while 80-85% of female garment workers report sexual abuse while working. The fashion industry utilises this exploitative labour to reduce the cost of manufacturing to lower prices for consumers. Many of the major fashion companies do not disclose the supply chains to customers meaning customers are generally unaware of the hidden human costs their purchases have, while people who do cannot easily discern who ethically manufactures their garments.
+
+Waste is common in the fashion industry, the precedent is to overproduce clothes to supply to the consumers to make sure that everyone can get the design that was made. Of the over 150 billion units of clothing made by the major fashion chains only about 80 billion were sold in a year with the rest going to waste. Approximately 40% of every bail of textiles will go to waste. The ravenous demand for new styles, patterns and colours by consumers leads to the idea of fast fashion, styles that are only considered popular for at most a few months leading to clothes that are at most worn once or twice before being tossed into either the never use again pile or the garbage. Many people will try to donate clothes but in many countries like Ghana (which imported $214m making them the largest importer of used fashion) into gloomy cesspools of waste.
+
+The fashion industry needs to learn sustainable practices if it wishes continued success going into a hopefully more sustainable future where both labour and waste should be ethically and sustainably managed, where workers have living wages and work happily as you or I do. Where customers can know that there is no human cost to their cheap clothing purchases. The removal of fast fashion would greatly benefit the environment and make sure none of the garments produced ever go to waste through overproduction. With these commitments 

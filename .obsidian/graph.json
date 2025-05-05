@@ -1,0 +1,72 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": true,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"00 - Daily Notes\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701199
+      }
+    },
+    {
+      "query": "tag:#computing  ",
+      "color": {
+        "a": 1,
+        "rgb": 16755200
+      }
+    },
+    {
+      "query": "tag:#english  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "tag:#physics  ",
+      "color": {
+        "a": 1,
+        "rgb": 65280
+      }
+    },
+    {
+      "query": "tag:#Viscom  ",
+      "color": {
+        "a": 1,
+        "rgb": 16449791
+      }
+    },
+    {
+      "query": "file:\"Home\"",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 2.09221453287197,
+  "lineSizeMultiplier": 1.53269896193772,
+  "collapse-forces": false,
+  "centerStrength": 0.250865051903114,
+  "repelStrength": 20,
+  "linkStrength": 0.250865051903114,
+  "linkDistance": 500,
+  "scale": 0.06455531499683963,
+  "close": true
+}

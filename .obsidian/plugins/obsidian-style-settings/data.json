@@ -1,0 +1,8 @@
+{
+  "things-style@@fancy-code": true,
+  "things-style@@fancy-highlight": true,
+  "things-style@@no-kanban-styles": true,
+  "things-style@@default-font-color": false,
+  "things-style@@strong-color": "#FF61D8",
+  "things-style@@em-color": "#FF6060"
+}

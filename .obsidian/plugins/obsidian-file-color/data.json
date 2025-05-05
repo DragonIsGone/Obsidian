@@ -1,0 +1,71 @@
+{
+  "cascadeColors": true,
+  "colorBackground": false,
+  "palette": [
+    {
+      "id": "KR6HFGLvKOhjcyevCWE4A",
+      "name": "01",
+      "value": "#fea9a9"
+    },
+    {
+      "id": "a9zyCHhoCvPbMcOLVda_C",
+      "name": "02",
+      "value": "#fea9e3"
+    },
+    {
+      "id": "QfRORIbtoO9ptSRqJRACm",
+      "name": "03",
+      "value": "#e0a9fe"
+    },
+    {
+      "id": "tDYdK39aO7y2YWzpdoVM4",
+      "name": "04",
+      "value": "#b3a9fe"
+    },
+    {
+      "id": "xQ2v5h9d7x9UTcMwjmZ6v",
+      "name": "05",
+      "value": "#a9d5fe"
+    },
+    {
+      "id": "SoqXLRG8mWG0vkJb28wUq",
+      "name": "06",
+      "value": "#a9fefd"
+    },
+    {
+      "id": "owBDvHr7Ha_9ULanPf6nz",
+      "name": "07",
+      "value": "#a9fec7"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "00 - Daily Notes",
+      "color": "KR6HFGLvKOhjcyevCWE4A"
+    },
+    {
+      "path": "01 - Home",
+      "color": "a9zyCHhoCvPbMcOLVda_C"
+    },
+    {
+      "path": "02 - Classes",
+      "color": "QfRORIbtoO9ptSRqJRACm"
+    },
+    {
+      "path": "03 - Projects",
+      "color": "tDYdK39aO7y2YWzpdoVM4"
+    },
+    {
+      "path": "04 - Images",
+      "color": "xQ2v5h9d7x9UTcMwjmZ6v"
+    },
+    {
+      "path": "05 - Meta",
+      "color": "SoqXLRG8mWG0vkJb28wUq"
+    },
+    {
+      "path": "06 - Future Events",
+      "color": "owBDvHr7Ha_9ULanPf6nz"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+- [ ] VKB sim flight setup ($900)
