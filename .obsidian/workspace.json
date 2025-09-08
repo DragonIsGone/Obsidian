@@ -62,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -168,7 +168,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ee7ab1f6d0217975",
+  "active": "ed63030a195b58fd",
   "lastOpenFiles": [
     "02 - Classes/03 - English/02 - Analysis of argument/09 - Plan for issue.md",
     "02 - Classes/00 - Math General/GeneralTextbook.pdf",
