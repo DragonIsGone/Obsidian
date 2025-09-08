@@ -60,9 +60,18 @@
               "icon": "lucide-file",
               "title": "09 - Plan for issue"
             }
+          },
+          {
+            "id": "0836fa3e423298a3",
+            "type": "leaf",
+            "state": {
+              "type": "beautitab-react-view",
+              "state": {},
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -168,12 +177,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ed63030a195b58fd",
+  "active": "0836fa3e423298a3",
   "lastOpenFiles": [
+    "03 - Projects/03 - Visual Communication Design/02 - Unit 2/AOS - 2/00 - Cultural Research.md",
     "02 - Classes/03 - English/02 - Analysis of argument/09 - Plan for issue.md",
     "02 - Classes/00 - Math General/GeneralTextbook.pdf",
     "02 - Classes/01 - Math Methods/Methods Textbook.pdf",
-    "03 - Projects/03 - Visual Communication Design/02 - Unit 2/AOS - 2/00 - Cultural Research.md",
     "Chaddy.md",
     "03 - Projects/03 - Visual Communication Design/02 - Unit 2/AOS - 2",
     "03 - Projects/03 - Visual Communication Design/02 - Unit 2/AOS - 1/Architecture Presentation interior CMYK.pdf",

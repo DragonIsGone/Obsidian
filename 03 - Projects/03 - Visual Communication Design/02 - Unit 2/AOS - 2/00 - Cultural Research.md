@@ -31,4 +31,4 @@ The design on the indigenous jersey is designed by proud Noongar and Yamatji man
 
 The nest faded into the background of the jersey shows the clubs idea of the club being a family home. The colouration of having it subtly blending with the background colours sells the idea to the viewer that while the idea of family may be subtle it is always there.
 
-The hawk taking up the main symbolism of the jersey shows the club's strength and keen eye for their prey. 
+The hawk taking up the main symbolism of the jersey shows the club's strength and keen eye for their prey.  
