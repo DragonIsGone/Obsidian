@@ -3,69 +3,84 @@
   "colorBackground": false,
   "palette": [
     {
-      "id": "KR6HFGLvKOhjcyevCWE4A",
-      "name": "01",
-      "value": "#fea9a9"
+      "id": "WpPh9H1lcMVSUKJeX1L1O",
+      "name": "1",
+      "value": "#f94848"
     },
     {
-      "id": "a9zyCHhoCvPbMcOLVda_C",
-      "name": "02",
-      "value": "#fea9e3"
+      "id": "vhzjUlO80AD6fGxUzAhar",
+      "name": "2",
+      "value": "#e647c3"
     },
     {
-      "id": "QfRORIbtoO9ptSRqJRACm",
-      "name": "03",
-      "value": "#e0a9fe"
+      "id": "t_9YyGUpdnaW4rOTG5HLY",
+      "name": "3",
+      "value": "#9647d7"
     },
     {
-      "id": "tDYdK39aO7y2YWzpdoVM4",
-      "name": "04",
-      "value": "#b3a9fe"
+      "id": "PDVoMPnbhxsgrZ6yG36aR",
+      "name": "4",
+      "value": "#4764d7"
     },
     {
-      "id": "xQ2v5h9d7x9UTcMwjmZ6v",
-      "name": "05",
-      "value": "#a9d5fe"
+      "id": "pVW9-8tsTBLUiPm_HueYz",
+      "name": "5",
+      "value": "#56bdd7"
     },
     {
-      "id": "SoqXLRG8mWG0vkJb28wUq",
-      "name": "06",
-      "value": "#a9fefd"
+      "id": "2w8k0k5_iJz-LBsSGN6z6",
+      "name": "6",
+      "value": "#75d7b1"
     },
     {
-      "id": "owBDvHr7Ha_9ULanPf6nz",
-      "name": "07",
-      "value": "#a9fec7"
+      "id": "W0fnsq9Ev5XRth_S1eTuO",
+      "name": "7",
+      "value": "#a4d78e"
+    },
+    {
+      "id": "I7vjNBnboT2HaPabEX2tU",
+      "name": "8",
+      "value": "#a8d84f"
+    },
+    {
+      "id": "Y0RS47PX8mtBIGnhaCFEO",
+      "name": "9",
+      "value": "#d7c347"
+    },
+    {
+      "id": "sxlycKXHoQCEBxAVV_hM1",
+      "name": "10",
+      "value": "#d76956"
     }
   ],
   "fileColors": [
     {
       "path": "00 - Daily Notes",
-      "color": "KR6HFGLvKOhjcyevCWE4A"
+      "color": "WpPh9H1lcMVSUKJeX1L1O"
     },
     {
       "path": "01 - Home",
-      "color": "a9zyCHhoCvPbMcOLVda_C"
+      "color": "Y0RS47PX8mtBIGnhaCFEO"
     },
     {
       "path": "02 - Classes",
-      "color": "QfRORIbtoO9ptSRqJRACm"
+      "color": "I7vjNBnboT2HaPabEX2tU"
     },
     {
       "path": "03 - Projects",
-      "color": "tDYdK39aO7y2YWzpdoVM4"
+      "color": "2w8k0k5_iJz-LBsSGN6z6"
     },
     {
       "path": "04 - Images",
-      "color": "xQ2v5h9d7x9UTcMwjmZ6v"
+      "color": "pVW9-8tsTBLUiPm_HueYz"
     },
     {
       "path": "05 - Meta",
-      "color": "SoqXLRG8mWG0vkJb28wUq"
+      "color": "PDVoMPnbhxsgrZ6yG36aR"
     },
     {
       "path": "06 - Future Events",
-      "color": "owBDvHr7Ha_9ULanPf6nz"
+      "color": "t_9YyGUpdnaW4rOTG5HLY"
     }
   ]
 }

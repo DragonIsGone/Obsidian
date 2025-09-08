@@ -1,0 +1,132 @@
+{
+  "workspaces": {
+    "Calendar Empty": {
+      "main": {
+        "id": "9ae48cd3e995ca88",
+        "type": "split",
+        "children": [
+          {
+            "id": "0d7bcbdf4e528741",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "172587131a14a1a2",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "full-calendar-view",
+                  "state": {},
+                  "pinned": true,
+                  "icon": "calendar-glyph",
+                  "title": "Calendar"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "c9c246d623f09e2e",
+        "type": "split",
+        "children": [
+          {
+            "id": "d742d561c4042bc3",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "1411d062e50ac172",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
+                }
+              },
+              {
+                "id": "849e5e58566dbc0c",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Search"
+                }
+              },
+              {
+                "id": "518f891043f2d484",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Bookmarks"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 264.5
+      },
+      "right": {
+        "id": "9e0a075f6262c542",
+        "type": "split",
+        "children": [
+          {
+            "id": "4554109ed43dfdc0",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "0a8809d59b691126",
+                "type": "leaf",
+                "state": {
+                  "type": "planner-timeline",
+                  "state": {},
+                  "icon": "calendar-clock",
+                  "title": "Timeline"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 268.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "command-palette:Open command palette": true,
+          "switcher:Open quick switcher": true,
+          "graph:Open graph view": true,
+          "canvas:Create new canvas": true,
+          "daily-notes:Open today's daily note": false,
+          "templates:Insert template": true,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "obsidian-day-planner:Open Timeline": false,
+          "obsidian-day-planner:Open Multi-Day View": false,
+          "obsidian-excalidraw-plugin:New drawing": false,
+          "obsidian-full-calendar:Open Full Calendar": false,
+          "homepage:Open homepage": false,
+          "obsidian-kanban:Create new board": false,
+          "obsidian-projects:Open projects": false,
+          "obsidian-spaced-repetition:Review flashcards": false,
+          "workspaces:Manage workspace layouts": false
+        }
+      },
+      "active": "172587131a14a1a2",
+      "mtime": "2025-05-07T08:42:13+10:00"
+    }
+  },
+  "active": "Calendar Empty"
+}

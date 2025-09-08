@@ -1,3 +1,7 @@
+---
+tags:
+  - english
+---
 **Prompt:**
 *"Even though birds are utterly free they choose to flock. They prefer to be with their kind. There's a sense of connection, I guess an invisible thread"*
 >Discuss how the novel shows the importance of family connections in including sense of the past, dealing with the present and credibly hopes for the future

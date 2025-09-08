@@ -4,7 +4,6 @@ tags:
 ---
 
 **Everyone will have to deal with a crisis at some stage in their lives**
-[[00 - Notes on the Mentor Texts.docx]]
 [[02 - Crisis friendship article.docx]]
 [[03- Notes on the Mentor Texts.docx]]
 [[06 - A Feature Article.docx]]

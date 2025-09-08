@@ -20,21 +20,49 @@
             }
           },
           {
-            "id": "144c8cb0cedd03d0",
+            "id": "ed63030a195b58fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Classes/03 - English/01 - 9 Days/05 - English Essay.md",
+                "file": "03 - Projects/03 - Visual Communication Design/02 - Unit 2/AOS - 2/00 - Cultural Research.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "05 - English Essay"
+              "title": "00 - Cultural Research"
+            }
+          },
+          {
+            "id": "2a7e3ea4717409fd",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "02 - Classes/00 - Math General/GeneralTextbook.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "GeneralTextbook"
+            }
+          },
+          {
+            "id": "ee7ab1f6d0217975",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Classes/03 - English/02 - Analysis of argument/09 - Plan for issue.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "09 - Plan for issue"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -66,7 +94,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#physics",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -91,34 +119,36 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264.5
+    "width": 200
   },
   "right": {
     "id": "9e0a075f6262c542",
     "type": "split",
     "children": [
       {
-        "id": "794fdf3c780faf3a",
+        "id": "4554109ed43dfdc0",
         "type": "tabs",
         "children": [
           {
-            "id": "a87038e5cb8429f1",
+            "id": "0a8809d59b691126",
             "type": "leaf",
             "state": {
-              "type": "git-view",
+              "type": "planner-timeline",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "calendar-clock",
+              "title": "Timeline"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 268.5
+    "width": 268.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "command-palette:Open command palette": true,
       "switcher:Open quick switcher": true,
       "graph:Open graph view": true,
@@ -133,58 +163,59 @@
       "homepage:Open homepage": false,
       "obsidian-kanban:Create new board": false,
       "obsidian-projects:Open projects": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-importer:Open Importer": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1411d062e50ac172",
+  "active": "ee7ab1f6d0217975",
   "lastOpenFiles": [
-    "02 - Classes/03 - English/01 - 9 Days/04 - Notes.md",
-    "02 - Classes/03 - English/01 - 9 Days/05 - English Essay.md",
+    "02 - Classes/03 - English/02 - Analysis of argument/09 - Plan for issue.md",
     "02 - Classes/00 - Math General/GeneralTextbook.pdf",
-    "00 - Daily Notes/00 - Notes/Mon  05-May-2025.md",
     "02 - Classes/01 - Math Methods/Methods Textbook.pdf",
-    "02 - Classes/01 - Math Methods/Graph Template.tns",
-    "02 - Classes/03 - English/01 - 9 Days/00 - Presentation notes.md",
-    "02 - Classes/01 - Math Methods/Methods12_2ed_full.pdf",
-    "02 - Classes/04 - Physics/03 - Area of Study 1/00 - Waves.md",
-    "02 - Classes/01 - Math Methods/Untitled.md",
-    "03 - Projects/03 - Visual Communication Design/00 - Unit 1/AOS2/Final Complied 2.pdf",
-    "03 - Projects/03 - Visual Communication Design/00 - Unit 1/AOS2/~untitled-1~c(bpd1.idlk",
-    "03 - Projects/03 - Visual Communication Design/00 - Unit 1/AOS2/BRIEF+TEMPLATE - Unit 1.pdf",
-    "03 - Projects/03 - Visual Communication Design/00 - Unit 1/~brief+template - u~wt7pa6.idlk",
-    "02 - Classes/04 - Physics/03 - Area of Study 1/01 - Here comes the sun.md",
-    "02 - Classes/04 - Physics/03 - Area of Study 1/02 - Light.md",
-    "03 - Projects/03 - Visual Communication Design/00 - Unit 1/AOS2/Render EgorE 2.png",
-    "03 - Projects/03 - Visual Communication Design/00 - Unit 1/AOS2/Render EgorE.png",
-    "03 - Projects/03 - Visual Communication Design/00 - Unit 1/AOS2/egore.png",
-    "03 - Projects/03 - Visual Communication Design/00 - Unit 1/AOS2/egore.dn",
-    "03 - Projects/03 - Visual Communication Design/00 - Unit 1/AOS2/Egore3 render.png",
-    "03 - Projects/03 - Visual Communication Design/00 - Unit 1/AOS2/Untitled.dn",
-    "03 - Projects/03 - Visual Communication Design/00 - Unit 1/Design Research.md",
-    "03 - Projects/03 - Visual Communication Design/00 - Unit 1/Design brief ideas.md",
-    "02 - Classes/03 - English/01 - 9 Days/03 - Practice Essay.md",
-    "06 - Future Events/01 - Upcoming Assesments/2025-05-23 General Sac Part 2.md",
-    "06 - Future Events/01 - Upcoming Assesments/2025-05-16 General Sac Part 1.md",
-    "02 - Classes/03 - English/01 - 9 Days/01 - Prompts.md",
-    "02 - Classes/04 - Physics/02 - Area of Study 2/06 - Darn nuclear fish.md",
-    "04 - Images/04 - Physics/{611537FA-0E7A-42EB-B8B5-42AB204421DA}.png",
-    "04 - Images/04 - Physics/{9012D34F-26E1-4F36-83F5-FF5F00976CB6}.png",
-    "02 - Classes/03 - English/01 - 9 Days/02 - List of choices avaliable to chara.md",
-    "02 - Classes/04 - Physics/03 - Area of Study 1.md",
-    "03 - Projects/04 - English/03 - Practice Task 2.md",
-    "06 - Future Events/01 - Upcoming Assesments/2025-04-30 Nuclear Test.md",
-    "00 - Daily Notes/00 - Notes/Wed  23-Apr-2025.md",
-    "02 - Classes/04 - Physics/02 - Area of Study 2/04 - Nuclear Energy.md",
-    "02 - Classes/04 - Physics/02 - Area of Study 2/02 - 4.3.md",
-    "02 - Classes/04 - Physics/02 - Area of Study 2/03 - 4.4.md",
-    "02 - Classes/04 - Physics/02 - Area of Study 2/07 - Nucleah powah.md",
-    "02 - Classes/02 - Applied Computing/12 - Object Oriented Programming.md",
-    "06 - Future Events/02 - School Events/2025-08-03 Fencing - Indv Champion.md",
-    "04 - Images/05 - Visual Communication Design/inline_image_preview.jpg",
-    "04 - Images/02 - Applied Computing/Pasted image 20250320093600.png",
-    "04 - Images/05 - Visual Communication Design/Loop Chair II.webp",
-    "04 - Images/05 - Visual Communication Design/Person in apartment.jpg",
+    "03 - Projects/03 - Visual Communication Design/02 - Unit 2/AOS - 2/00 - Cultural Research.md",
+    "Chaddy.md",
+    "03 - Projects/03 - Visual Communication Design/02 - Unit 2/AOS - 2",
+    "03 - Projects/03 - Visual Communication Design/02 - Unit 2/AOS - 1/Architecture Presentation interior CMYK.pdf",
+    "03 - Projects/03 - Visual Communication Design/02 - Unit 2/AOS - 1/~architecture prese~-tn$xm.idlk",
+    "03 - Projects/03 - Visual Communication Design/02 - Unit 2/AOS - 1/Architecture Presentation interior.png",
+    "03 - Projects/03 - Visual Communication Design/02 - Unit 2/AOS - 1/Architecture Presentation interior.pdf",
+    "06 - Future Events/03 - Homework/2025-09-09 General Study.md",
+    "03 - Projects/02 - Physics/U2AOS3 Investigation template.docx",
+    "03 - Projects/02 - Physics/Sticky Collision Results.xlsx",
+    "03 - Projects/03 - Visual Communication Design/02 - Unit 2/AOS - 1/00 - Model Credit.md",
+    "02 - Classes/03 - English/02 - Analysis of argument/08 - SPEECH!!.md",
+    "06 - Future Events/01 - Upcoming Assesments/2025-11-04 Doomsday (GEM 3+4).md",
+    "06 - Future Events/01 - Upcoming Assesments/2025-11-03 Doomsday (GEM 3+4).md",
+    "06 - Future Events/01 - Upcoming Assesments/2025-10-16 Methods Test.md",
+    "06 - Future Events/03 - Homework/2025-08-27 methods.md",
+    "03 - Projects/03 - Visual Communication Design/02 - Unit 2/AOS - 1/~arc presentation~vmpqm2.idlk",
+    "03 - Projects/03 - Visual Communication Design/02 - Unit 2/AOS - 1/Arc presentation.indd",
+    "06 - Future Events/02 - School Events/2025-08-28 Interviews.md",
+    "06 - Future Events/00 - To do/2025-09-29 FUUUUC.md",
+    "06 - Future Events/01 - Upcoming Assesments/2025-09-07 comp Web Finne.md",
+    "02 - Classes/04 - Physics/02 - Unit 2/01 - Motion/08 - 9.6.md",
+    "02 - Classes/04 - Physics/02 - Unit 2/01 - Motion/07 - 9.5.md",
+    "02 - Classes/04 - Physics/02 - Unit 2/01 - Motion/09 - 9.7.md",
+    "02 - Classes/04 - Physics/02 - Unit 2/01 - Motion/06 - 9.4.md",
+    "06 - Future Events/00 - To do/2025-08-30 haircut.md",
+    "06 - Future Events/03 - Homework/2025-08-27 Viscom.md",
+    "06 - Future Events/03 - Homework/2025-08-27 Phys.md",
+    "06 - Future Events/03 - Homework/2025-08-27 English.md",
+    "06 - Future Events/00 - To do/2025-08-30 Chaddy maybe ak driving.md",
+    "06 - Future Events/03 - Homework/2025-08-26 English.md",
+    "06 - Future Events/03 - Homework/2025-08-25 English.md",
+    "06 - Future Events/03 - Homework/2025-08-25 physics.md",
+    "06 - Future Events/03 - Homework/2025-08-25 Viscom.md",
+    "03 - Projects/03 - Visual Communication Design/02 - Unit 2/AOS - 1/persp elevation/roundug-top-dimen.png",
+    "03 - Projects/03 - Visual Communication Design/02 - Unit 2/AOS - 1/persp elevation/roundug-round-dimensoin.png",
+    "04 - Images/05 - Visual Communication Design/Arch/00 - Inspiration/chrysler.jpg",
+    "04 - Images/05 - Visual Communication Design/Arch/00 - Inspiration/Manchester-Unity-Building-1.jpg",
+    "04 - Images/05 - Visual Communication Design/Arch/Manchester-Unity-Building-1.jpg",
+    "04 - Images/05 - Visual Communication Design/Arch/Manchester_Unity_Building_Collins_Street.jpg",
+    "04 - Images/05 - Visual Communication Design/Arch/00 - Inspiration/Dupli_10-1-500x332.webp",
+    "04 - Images/05 - Visual Communication Design/Arch/00 - Inspiration/Farnsworth-House.jpg",
+    "04 - Images/05 - Visual Communication Design/Arch/00 - Inspiration/blank-profile-picture-973460_960_720.webp",
     "01 - Home/Home.canvas",
     "Untitled.canvas"
   ]

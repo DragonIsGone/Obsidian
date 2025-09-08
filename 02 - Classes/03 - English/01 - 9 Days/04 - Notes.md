@@ -1,3 +1,7 @@
+---
+tags:
+  - english
+---
 - Reflect on the key ideas toni jordan presents in the book
 
 ### Layouts

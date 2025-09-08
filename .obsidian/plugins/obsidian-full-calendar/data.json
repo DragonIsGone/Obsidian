@@ -14,6 +14,11 @@
       "type": "local",
       "color": "#ffc800",
       "directory": "06 - Future Events/02 - School Events"
+    },
+    {
+      "type": "local",
+      "color": "#8418bf",
+      "directory": "06 - Future Events/03 - Homework"
     }
   ],
   "defaultCalendar": 0,

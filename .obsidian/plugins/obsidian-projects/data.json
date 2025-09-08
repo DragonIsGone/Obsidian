@@ -25,7 +25,8 @@
               "path": {
                 "hide": true
               }
-            }
+            },
+            "orderFields": []
           },
           "filter": {
             "conjunction": "and",

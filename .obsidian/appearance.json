@@ -3,5 +3,7 @@
   "enabledCssSnippets": [
     "image background",
     "Pinned Css shrink"
-  ]
+  ],
+  "interfaceFontFamily": "",
+  "textFontFamily": ""
 }

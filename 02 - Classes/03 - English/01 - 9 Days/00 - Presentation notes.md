@@ -1,3 +1,7 @@
+---
+tags:
+  - english
+---
 ### Direct notes
 #### Context
 - Writers muse

@@ -1,12 +1,12 @@
 {
   "snapStepMinutes": 10,
   "progressIndicator": "bar",
-  "showTaskNotification": true,
+  "showTaskNotification": false,
   "zoomLevel": 2,
   "timelineIcon": "calendar-clock",
   "endLabel": "All done",
   "startHour": 6,
-  "timelineDateFormat": "YYYY-MM-DD",
+  "timelineDateFormat": "ddd-MM-YY",
   "centerNeedle": false,
   "plannerHeading": "Day planner",
   "plannerHeadingLevel": 1,
@@ -38,8 +38,8 @@
   "releaseNotes": true,
   "taskStatusOnCreation": " ",
   "eventFormatOnCreation": "task",
-  "sortTasksInPlanAfterEdit": false,
+  "sortTasksInPlanAfterEdit": true,
   "firstDayOfWeek": "monday",
   "multiDayRange": "full-week",
-  "showTimeTracker": false
+  "showTimeTracker": true
 }
