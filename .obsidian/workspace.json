@@ -60,9 +60,18 @@
               "icon": "lucide-file",
               "title": "10 - Executive Summary"
             }
+          },
+          {
+            "id": "32c31fab0a0c141d",
+            "type": "leaf",
+            "state": {
+              "type": "beautitab-react-view",
+              "state": {},
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -138,8 +147,19 @@
               "icon": "calendar-clock",
               "title": "Timeline"
             }
+          },
+          {
+            "id": "f73a0041bea06146",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {},
+              "icon": "history",
+              "title": "History"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -168,10 +188,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "571c4228b1489a42",
+  "active": "32c31fab0a0c141d",
   "lastOpenFiles": [
-    "Untitled.md",
     "02 - Classes/03 - English/02 - Analysis of argument/10 - Executive Summary.md",
+    "Untitled.md",
     "02 - Classes/00 - Math General/GeneralTextbook.pdf",
     "02 - Classes/03 - English/02 - Analysis of argument/09 - Plan for issue.md",
     "03 - Projects/03 - Visual Communication Design/02 - Unit 2/AOS - 2/00 - Cultural Research.md",
