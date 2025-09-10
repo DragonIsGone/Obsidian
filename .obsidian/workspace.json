@@ -33,9 +33,18 @@
               "icon": "lucide-file",
               "title": "00 - Cultural Research"
             }
+          },
+          {
+            "id": "2dc6b9d6fef9e880",
+            "type": "leaf",
+            "state": {
+              "type": "beautitab-react-view",
+              "state": {},
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -163,7 +172,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ed63030a195b58fd",
+  "active": "2dc6b9d6fef9e880",
   "lastOpenFiles": [
     "03 - Projects/03 - Visual Communication Design/02 - Unit 2/AOS - 2/00 - Cultural Research.md",
     "03 - Projects/03 - Visual Communication Design/02 - Unit 2/AOS - 2/~jersey~kpb3sx.idlk",
