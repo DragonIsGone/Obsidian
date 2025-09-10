@@ -40,23 +40,14 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "02 - Classes/00 - Math General/GeneralTextbook.pdf"
+                "file": "02 - Classes/01 - Math Methods/Methods Textbook.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "GeneralTextbook"
+              "title": "Methods Textbook"
             }
           },
           {
-            "id": "627a7b0f87dc6316",
-            "type": "leaf",
-            "state": {
-              "type": "beautitab-react-view",
-              "state": {},
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "7e35761ca0bfa73c",
+            "id": "3d78e711213673f1",
             "type": "leaf",
             "state": {
               "type": "beautitab-react-view",
@@ -65,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -193,11 +184,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7e35761ca0bfa73c",
+  "active": "3d78e711213673f1",
   "lastOpenFiles": [
-    "03 - Projects/03 - Visual Communication Design/02 - Unit 2/AOS - 2/00 - Cultural Research.md",
-    "02 - Classes/00 - Math General/GeneralTextbook.pdf",
     "02 - Classes/01 - Math Methods/Methods Textbook.pdf",
+    "06 - Future Events/00 - To do/2025-09-18 uh oh.md",
+    "06 - Future Events/02 - School Events/2025-11-28 Le Finne.md",
+    "06 - Future Events/02 - School Events/2025-10-11 Open day (who gives a fuck).md",
+    "02 - Classes/00 - Math General/GeneralTextbook.pdf",
+    "06 - Future Events/00 - To do/2025-09-12 Clothes shopping.md",
+    "06 - Future Events/00 - To do/2025-09-13 Work.md",
+    "03 - Projects/03 - Visual Communication Design/02 - Unit 2/AOS - 2/00 - Cultural Research.md",
     "02 - Classes/03 - English/02 - Analysis of argument/10 - Executive Summary.md",
     "Untitled.md",
     "02 - Classes/03 - English/02 - Analysis of argument/09 - Plan for issue.md",
@@ -226,11 +222,6 @@
     "02 - Classes/04 - Physics/02 - Unit 2/01 - Motion/09 - 9.7.md",
     "02 - Classes/04 - Physics/02 - Unit 2/01 - Motion/06 - 9.4.md",
     "06 - Future Events/00 - To do/2025-08-30 haircut.md",
-    "06 - Future Events/03 - Homework/2025-08-27 Viscom.md",
-    "06 - Future Events/03 - Homework/2025-08-27 Phys.md",
-    "06 - Future Events/03 - Homework/2025-08-27 English.md",
-    "06 - Future Events/00 - To do/2025-08-30 Chaddy maybe ak driving.md",
-    "06 - Future Events/03 - Homework/2025-08-26 English.md",
     "03 - Projects/03 - Visual Communication Design/02 - Unit 2/AOS - 1/persp elevation/roundug-top-dimen.png",
     "03 - Projects/03 - Visual Communication Design/02 - Unit 2/AOS - 1/persp elevation/roundug-round-dimensoin.png",
     "04 - Images/05 - Visual Communication Design/Arch/00 - Inspiration/chrysler.jpg",
