@@ -12,7 +12,7 @@ The hawthorn 2025 Sir Doug Nicholls Indigenous Round Jersey. This special round 
 
 The design on the indigenous jersey is designed by proud Noongar and Yamatji man and Hawthorn's Indigenous Player Development Manager Jamie Bennell. He places several design iconographies on the jersey reflective of cultural norms of both indigenous Australians and the hawthorn football club. 
 
-The nest faded into the background of the jersey shows the clubs idea of the club being a family home including the managers, the player, the members and the fans. The colouration of having it subtly blending with the background colours sells the idea to the viewer that while the idea of family may be subtle it is always there.
+The centre of the jersey features a depiction of a nest faded into the background. This shows the clubs idea of the club being a family home including the managers, the player, the members and the fans. The colouration of having it subtly blending with the background colours sells the idea to the viewer that while the idea of family may be subtle it is always there.
 
 The hawk taking up the main symbolism of the jersey shows the club's strength and keen eye for their prey. This reflection on the club's mascot shows that the club has that same strength and keen vision, this aspect of the design would also emphasis this fact to their opponents.
 

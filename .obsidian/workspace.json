@@ -33,30 +33,9 @@
               "icon": "lucide-file",
               "title": "00 - Cultural Research"
             }
-          },
-          {
-            "id": "2a7e3ea4717409fd",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "02 - Classes/01 - Math Methods/Methods Textbook.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Methods Textbook"
-            }
-          },
-          {
-            "id": "3d78e711213673f1",
-            "type": "leaf",
-            "state": {
-              "type": "beautitab-react-view",
-              "state": {},
-              "title": "New tab"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,8 +163,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3d78e711213673f1",
+  "active": "ed63030a195b58fd",
   "lastOpenFiles": [
+    "03 - Projects/03 - Visual Communication Design/02 - Unit 2/AOS - 2/00 - Cultural Research.md",
+    "03 - Projects/03 - Visual Communication Design/02 - Unit 2/AOS - 2/~jersey~kpb3sx.idlk",
+    "03 - Projects/03 - Visual Communication Design/02 - Unit 2/AOS - 2/JERSEY.png",
+    "03 - Projects/03 - Visual Communication Design/02 - Unit 2/AOS - 2/Jersey.indd",
     "02 - Classes/01 - Math Methods/Methods Textbook.pdf",
     "06 - Future Events/00 - To do/2025-09-18 uh oh.md",
     "06 - Future Events/02 - School Events/2025-11-28 Le Finne.md",
@@ -193,7 +176,6 @@
     "02 - Classes/00 - Math General/GeneralTextbook.pdf",
     "06 - Future Events/00 - To do/2025-09-12 Clothes shopping.md",
     "06 - Future Events/00 - To do/2025-09-13 Work.md",
-    "03 - Projects/03 - Visual Communication Design/02 - Unit 2/AOS - 2/00 - Cultural Research.md",
     "02 - Classes/03 - English/02 - Analysis of argument/10 - Executive Summary.md",
     "Untitled.md",
     "02 - Classes/03 - English/02 - Analysis of argument/09 - Plan for issue.md",
@@ -212,8 +194,6 @@
     "06 - Future Events/01 - Upcoming Assesments/2025-11-03 Doomsday (GEM 3+4).md",
     "06 - Future Events/01 - Upcoming Assesments/2025-10-16 Methods Test.md",
     "06 - Future Events/03 - Homework/2025-08-27 methods.md",
-    "03 - Projects/03 - Visual Communication Design/02 - Unit 2/AOS - 1/~arc presentation~vmpqm2.idlk",
-    "03 - Projects/03 - Visual Communication Design/02 - Unit 2/AOS - 1/Arc presentation.indd",
     "06 - Future Events/02 - School Events/2025-08-28 Interviews.md",
     "06 - Future Events/00 - To do/2025-09-29 FUUUUC.md",
     "06 - Future Events/01 - Upcoming Assesments/2025-09-07 comp Web Finne.md",
@@ -230,7 +210,6 @@
     "04 - Images/05 - Visual Communication Design/Arch/Manchester_Unity_Building_Collins_Street.jpg",
     "04 - Images/05 - Visual Communication Design/Arch/00 - Inspiration/Dupli_10-1-500x332.webp",
     "04 - Images/05 - Visual Communication Design/Arch/00 - Inspiration/Farnsworth-House.jpg",
-    "04 - Images/05 - Visual Communication Design/Arch/00 - Inspiration/blank-profile-picture-973460_960_720.webp",
     "01 - Home/Home.canvas",
     "Untitled.canvas"
   ]
