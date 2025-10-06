@@ -1,6 +1,8 @@
 ---
 title: General Trial Exam
 allDay: true
-date: 2025-10-02
+date: 2025-09-30
 completed: null
+type: single
+endDate: null
 ---

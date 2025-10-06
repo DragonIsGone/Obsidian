@@ -20,18 +20,15 @@
             }
           },
           {
-            "id": "0fab2bd068ca9986",
+            "id": "5bab38a9f0d8b36f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "02 - Classes/04 - Physics/02 - Unit 2/02 - Forces/01 - Momentum and impulse.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "02 - Classes/01 - Math Methods/Methods Textbook.pdf"
               },
-              "icon": "lucide-file",
-              "title": "01 - Momentum and impulse"
+              "icon": "lucide-file-text",
+              "title": "Methods Textbook"
             }
           }
         ],
@@ -161,12 +158,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0fab2bd068ca9986",
+  "active": "5bab38a9f0d8b36f",
   "lastOpenFiles": [
+    "03 - Projects/03 - Visual Communication Design/02 - Unit 2/AOS - 2/00 - Cultural Research.md",
+    "06 - Future Events/00 - To do/2025-10-08 Haus Play.md",
+    "02 - Classes/05 - Visual Communication Design/00 - Arch Style Research.md",
     "02 - Classes/04 - Physics/02 - Unit 2/02 - Forces/01 - Momentum and impulse.md",
     "02 - Classes/04 - Physics/02 - Unit 2/02 - Forces",
     "06 - Future Events/02 - School Events/2025-10-10 Haus Lunch.md",
-    "03 - Projects/03 - Visual Communication Design/02 - Unit 2/AOS - 2/00 - Cultural Research.md",
     "02 - Classes/00 - Math General/GeneralTextbook.pdf",
     "03 - Projects/03 - Visual Communication Design/02 - Unit 2/AOS - 2/Jersey - corrected citations.pdf",
     "03 - Projects/03 - Visual Communication Design/02 - Unit 2/AOS - 2/~jersey~kpb3sx.idlk",
@@ -199,8 +198,6 @@
     "06 - Future Events/01 - Upcoming Assesments/2025-09-07 comp Web Finne.md",
     "02 - Classes/04 - Physics/02 - Unit 2/01 - Motion/08 - 9.6.md",
     "02 - Classes/04 - Physics/02 - Unit 2/01 - Motion/07 - 9.5.md",
-    "02 - Classes/04 - Physics/02 - Unit 2/01 - Motion/09 - 9.7.md",
-    "02 - Classes/04 - Physics/02 - Unit 2/01 - Motion/06 - 9.4.md",
     "03 - Projects/03 - Visual Communication Design/02 - Unit 2/AOS - 1/persp elevation/roundug-top-dimen.png",
     "03 - Projects/03 - Visual Communication Design/02 - Unit 2/AOS - 1/persp elevation/roundug-round-dimensoin.png",
     "04 - Images/05 - Visual Communication Design/Arch/00 - Inspiration/chrysler.jpg",
