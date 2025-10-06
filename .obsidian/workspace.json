@@ -25,38 +25,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Classes/00 - Math General/Study Prio.md",
+                "file": "02 - Classes/03 - English/02 - Analysis of argument/11 - Commercialisation of Nature.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Study Prio"
-            }
-          },
-          {
-            "id": "4afee921f8a0708c",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "02 - Classes/00 - Math General/GeneralTextbook.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "GeneralTextbook"
-            }
-          },
-          {
-            "id": "f650a0fcae651c3f",
-            "type": "leaf",
-            "state": {
-              "type": "beautitab-react-view",
-              "state": {},
-              "title": "New tab"
+              "title": "11 - Commercialisation of Nature"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -153,12 +132,12 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 268.5,
-    "collapsed": true
+    "width": 268.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,13 +158,22 @@
       "obsidian-projects:Open projects": false,
       "workspaces:Manage workspace layouts": false,
       "obsidian-importer:Open Importer": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-memos:Thino": false
     }
   },
-  "active": "f650a0fcae651c3f",
+  "active": "ca749f6e26122058",
   "lastOpenFiles": [
-    "02 - Classes/00 - Math General/GeneralTextbook.pdf",
+    "02 - Classes/03 - English/02 - Analysis of argument/11 - Commercialisation of Nature.md",
+    "06 - Future Events/02 - School Events/2025-11-28 Le Finne.md",
+    "06 - Future Events/03 - Homework/2025-10-06 Viscom Jersey.md",
+    "06 - Future Events/03 - Homework/2025-10-06 Maths Methods.md",
+    "06 - Future Events/03 - Homework/2025-10-06 Maths General.md",
     "02 - Classes/00 - Math General/Study Prio.md",
+    "04 - Images/Untitled.base",
+    "04 - Images/Untitled.md",
+    "Untitled.base",
+    "02 - Classes/00 - Math General/GeneralTextbook.pdf",
     "02 - Classes/01 - Math Methods/Methods Textbook.pdf",
     "03 - Projects/03 - Visual Communication Design/02 - Unit 2/AOS - 2/00 - Cultural Research.md",
     "06 - Future Events/00 - To do/2025-10-08 Haus Play.md",
@@ -199,7 +187,6 @@
     "03 - Projects/03 - Visual Communication Design/02 - Unit 2/AOS - 2/JERSEY.png",
     "03 - Projects/03 - Visual Communication Design/02 - Unit 2/AOS - 2/Jersey.indd",
     "06 - Future Events/00 - To do/2025-09-18 uh oh.md",
-    "06 - Future Events/02 - School Events/2025-11-28 Le Finne.md",
     "06 - Future Events/02 - School Events/2025-10-11 Open day (who gives a fuck).md",
     "06 - Future Events/00 - To do/2025-09-12 Clothes shopping.md",
     "06 - Future Events/00 - To do/2025-09-13 Work.md",
@@ -208,8 +195,6 @@
     "02 - Classes/03 - English/02 - Analysis of argument/09 - Plan for issue.md",
     "Chaddy.md",
     "03 - Projects/03 - Visual Communication Design/02 - Unit 2/AOS - 2",
-    "03 - Projects/03 - Visual Communication Design/02 - Unit 2/AOS - 1/Architecture Presentation interior CMYK.pdf",
-    "03 - Projects/03 - Visual Communication Design/02 - Unit 2/AOS - 1/~architecture prese~-tn$xm.idlk",
     "03 - Projects/03 - Visual Communication Design/02 - Unit 2/AOS - 1/Architecture Presentation interior.png",
     "06 - Future Events/03 - Homework/2025-09-09 General Study.md",
     "03 - Projects/03 - Visual Communication Design/02 - Unit 2/AOS - 1/00 - Model Credit.md",
@@ -217,10 +202,6 @@
     "06 - Future Events/01 - Upcoming Assesments/2025-11-04 Doomsday (GEM 3+4).md",
     "06 - Future Events/01 - Upcoming Assesments/2025-11-03 Doomsday (GEM 3+4).md",
     "06 - Future Events/01 - Upcoming Assesments/2025-10-16 Methods Test.md",
-    "06 - Future Events/03 - Homework/2025-08-27 methods.md",
-    "06 - Future Events/02 - School Events/2025-08-28 Interviews.md",
-    "06 - Future Events/00 - To do/2025-09-29 FUUUUC.md",
-    "06 - Future Events/01 - Upcoming Assesments/2025-09-07 comp Web Finne.md",
     "03 - Projects/03 - Visual Communication Design/02 - Unit 2/AOS - 1/persp elevation/roundug-top-dimen.png",
     "03 - Projects/03 - Visual Communication Design/02 - Unit 2/AOS - 1/persp elevation/roundug-round-dimensoin.png",
     "04 - Images/05 - Visual Communication Design/Arch/00 - Inspiration/chrysler.jpg",
