@@ -11,3 +11,13 @@
 - Start w/ context of the text "this is a master plan for the development of the alpine crossing …"
 - Give the title and format of the text "Alpine crossing plan master 2017 executive summary" and the format is "executive summary"
 - Identify the underlying issue - Appropriate use of public assets and the ethical usages
+
+## Analysis
+- Follow the sequence of arguments, one per paragrpah
+- linnk quote from text to visuals provided
+- Support analysis with relavent evidence (quotes) 
+
+
+The Victorian National Parks Department put forward an executive summary of "Alpine Crossing Master Plan 2017 Executive Summary." The executive summary focuses on the redevelopment of the alpine national park area. The underlying argument of the executive summary is the ethical usage of public assets to develop revenue to benefit surrounding communities. The executive summary strongly emphasises the continuing ecenomic benefits of the redvelopment and how the funds can benefit the local cumminities. This is contrasted by Katherine  R's contribution to the "Community Input" in disputing the proposed plans of giving up public assets to private companies who look to take the scenic parts of the national park and charge an arm and a leg to see and stay there. Katherine's goal is to warn about the potential long term loses the people may have if they let the serine national park fall under private control and is subject to exploitation.
+
+The Alpine Crossing executive summary conveys a positive benefitial nature of the proposed redevlopment. These benefits as outlined to the communities include transforming the parks into "Victoria's premier hiking expirience." which will allow the "reigon to expirience increased ecenomic activity and creation of ongoing employment" This is a significant argument as stable employment would be extremely beneficial to surrounding communities and would help with ecenomic prosperity. The photographs in the image help to define an idea of eco-friendly architecture. Undertaking such design choices would more easily warm people up to the idea. The plan describes the cabins as a choice in "roofed accomidation" or "luxury tenting." These terms look to promise "saftey and comfort" which will encorage the major "expirience seaker market"  

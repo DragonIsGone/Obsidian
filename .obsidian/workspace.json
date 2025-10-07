@@ -20,22 +20,127 @@
             }
           },
           {
-            "id": "ca749f6e26122058",
+            "id": "74650566b3200a40",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Classes/03 - English/02 - Analysis of argument/11 - Commercialisation of Nature.md",
+                "file": "02 - Classes/02 - Applied Computing/02 - Innovative Solution/Financial/Customer Service.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "11 - Commercialisation of Nature"
+              "title": "Customer Service"
+            }
+          },
+          {
+            "id": "bb79f6a795f1bc3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Classes/02 - Applied Computing/02 - Innovative Solution/Financial/Fraud Detection.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Fraud Detection"
+            }
+          },
+          {
+            "id": "7e92f94ccb3e237d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Classes/02 - Applied Computing/02 - Innovative Solution/Financial/MFA.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "MFA"
+            }
+          },
+          {
+            "id": "2ad8afbb144e839c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Classes/02 - Applied Computing/02 - Innovative Solution/Assistive/Assistive Aids.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Assistive Aids"
+            }
+          },
+          {
+            "id": "e88b6cf4212108c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Classes/02 - Applied Computing/02 - Innovative Solution/Assistive/Cognitive aids.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Cognitive aids"
+            }
+          },
+          {
+            "id": "cc39e2c758764f6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Classes/02 - Applied Computing/02 - Innovative Solution/Assistive/Home Automation.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Home Automation"
+            }
+          },
+          {
+            "id": "891bade1ce0e97bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Classes/02 - Applied Computing/02 - Innovative Solution/Assistive/Mobility aids.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Mobility aids"
+            }
+          },
+          {
+            "id": "736a3c02011cb21f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Classes/02 - Applied Computing/02 - Innovative Solution/Financial/NFC.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "NFC"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -67,7 +172,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#physics",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -158,58 +263,57 @@
       "obsidian-projects:Open projects": false,
       "workspaces:Manage workspace layouts": false,
       "obsidian-importer:Open Importer": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-memos:Thino": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ca749f6e26122058",
+  "active": "736a3c02011cb21f",
   "lastOpenFiles": [
+    "03 - Projects/03 - Visual Communication Design/02 - Unit 2/AOS - 2/Illustrator Jersey Template.ai",
+    "03 - Projects/03 - Visual Communication Design/02 - Unit 2/AOS - 2/~ai-0abb32df-fc97-4f02-992c-a67fad9c5f40_.tmp",
+    "04 - Images/05 - Visual Communication Design/Symbols.jpg",
+    "02 - Classes/02 - Applied Computing/02 - Innovative Solution/Financial/Electronic Fund Token.md",
+    "02 - Classes/02 - Applied Computing/02 - Innovative Solution/Financial/NFC.md",
+    "02 - Classes/02 - Applied Computing/02 - Innovative Solution/02 - Functions and capabilities.md",
+    "02 - Classes/02 - Applied Computing/02 - Innovative Solution/Financial/Fraud Detection.md",
+    "02 - Classes/02 - Applied Computing/02 - Innovative Solution/Assistive/Assistive Aids.md",
+    "02 - Classes/02 - Applied Computing/02 - Innovative Solution/Assistive/Mobility aids.md",
+    "02 - Classes/02 - Applied Computing/02 - Innovative Solution/Assistive/Home Automation.md",
+    "02 - Classes/02 - Applied Computing/02 - Innovative Solution/Assistive/Cognitive aids.md",
+    "02 - Classes/02 - Applied Computing/02 - Innovative Solution/Financial/MFA.md",
+    "02 - Classes/02 - Applied Computing/02 - Innovative Solution/Financial/Customer Service.md",
+    "02 - Classes/02 - Applied Computing/02 - Innovative Solution/Assistive/Personal emergency response systems.md",
+    "02 - Classes/02 - Applied Computing/02 - Innovative Solution/Financial",
+    "maxresdefault-1381152734.jpg",
+    "01 - Home/Purchase List.md",
+    "02 - Classes/02 - Applied Computing/02 - Innovative Solution/00 - Problem solving meth.md",
+    "02 - Classes/02 - Applied Computing/02 - Innovative Solution/01 - Design Stage.md",
+    "02 - Classes/02 - Applied Computing/02 - Innovative Solution/Functions/Untitled",
+    "02 - Classes/02 - Applied Computing/02 - Innovative Solution/Assistive",
+    "02 - Classes/03 - English/02 - Analysis of argument/11 - Commercialisation of Nature.md",
+    "02 - Classes/02 - Applied Computing/03 - Function and capabilities/00 - Fucntions.md",
+    "02 - Classes/02 - Applied Computing/03 - Function and capabilities",
+    "06 - Future Events/00 - To do/2025-11-04 Melbourne Cup.md",
+    "06 - Future Events/01 - Upcoming Assesments/2025-11-17 Exams.md",
     "06 - Future Events/00 - To do/2025-10-06 Doodle.md",
     "06 - Future Events/03 - Homework/2025-10-06 Physics Prac.md",
     "conflict-files-obsidian-git.md",
-    "02 - Classes/03 - English/02 - Analysis of argument/11 - Commercialisation of Nature.md",
     "06 - Future Events/02 - School Events/2025-11-28 Le Finne.md",
     "06 - Future Events/03 - Homework/2025-10-06 Viscom Jersey.md",
     "06 - Future Events/03 - Homework/2025-10-06 Maths Methods.md",
     "06 - Future Events/03 - Homework/2025-10-06 Maths General.md",
-    "02 - Classes/00 - Math General/Study Prio.md",
     "04 - Images/Untitled.base",
-    "04 - Images/Untitled.md",
     "Untitled.base",
     "02 - Classes/00 - Math General/GeneralTextbook.pdf",
     "02 - Classes/01 - Math Methods/Methods Textbook.pdf",
-    "03 - Projects/03 - Visual Communication Design/02 - Unit 2/AOS - 2/00 - Cultural Research.md",
-    "06 - Future Events/00 - To do/2025-10-08 Haus Play.md",
-    "02 - Classes/05 - Visual Communication Design/00 - Arch Style Research.md",
-    "02 - Classes/04 - Physics/02 - Unit 2/02 - Forces/01 - Momentum and impulse.md",
     "02 - Classes/04 - Physics/02 - Unit 2/02 - Forces",
-    "06 - Future Events/02 - School Events/2025-10-10 Haus Lunch.md",
-    "03 - Projects/03 - Visual Communication Design/02 - Unit 2/AOS - 2/Jersey - corrected citations.pdf",
-    "03 - Projects/03 - Visual Communication Design/02 - Unit 2/AOS - 2/~jersey~kpb3sx.idlk",
-    "03 - Projects/03 - Visual Communication Design/02 - Unit 2/AOS - 2/Jersey.pdf",
     "03 - Projects/03 - Visual Communication Design/02 - Unit 2/AOS - 2/JERSEY.png",
-    "03 - Projects/03 - Visual Communication Design/02 - Unit 2/AOS - 2/Jersey.indd",
-    "06 - Future Events/00 - To do/2025-09-18 uh oh.md",
-    "06 - Future Events/02 - School Events/2025-10-11 Open day (who gives a fuck).md",
-    "06 - Future Events/00 - To do/2025-09-12 Clothes shopping.md",
-    "06 - Future Events/00 - To do/2025-09-13 Work.md",
-    "02 - Classes/03 - English/02 - Analysis of argument/10 - Executive Summary.md",
-    "Untitled.md",
-    "02 - Classes/03 - English/02 - Analysis of argument/09 - Plan for issue.md",
-    "Chaddy.md",
-    "03 - Projects/03 - Visual Communication Design/02 - Unit 2/AOS - 2",
     "03 - Projects/03 - Visual Communication Design/02 - Unit 2/AOS - 1/Architecture Presentation interior.png",
-    "06 - Future Events/03 - Homework/2025-09-09 General Study.md",
-    "03 - Projects/03 - Visual Communication Design/02 - Unit 2/AOS - 1/00 - Model Credit.md",
-    "02 - Classes/03 - English/02 - Analysis of argument/08 - SPEECH!!.md",
     "03 - Projects/03 - Visual Communication Design/02 - Unit 2/AOS - 1/persp elevation/roundug-top-dimen.png",
     "03 - Projects/03 - Visual Communication Design/02 - Unit 2/AOS - 1/persp elevation/roundug-round-dimensoin.png",
     "04 - Images/05 - Visual Communication Design/Arch/00 - Inspiration/chrysler.jpg",
     "04 - Images/05 - Visual Communication Design/Arch/00 - Inspiration/Manchester-Unity-Building-1.jpg",
     "04 - Images/05 - Visual Communication Design/Arch/Manchester-Unity-Building-1.jpg",
     "04 - Images/05 - Visual Communication Design/Arch/Manchester_Unity_Building_Collins_Street.jpg",
-    "04 - Images/05 - Visual Communication Design/Arch/00 - Inspiration/Dupli_10-1-500x332.webp",
-    "04 - Images/05 - Visual Communication Design/Arch/00 - Inspiration/Farnsworth-House.jpg",
     "01 - Home/Home.canvas",
     "Untitled.canvas"
   ]

@@ -1,3 +1,7 @@
+---
+tags:
+  - computing
+---
 ## Mockups
 ### UwU waz dis?
 - visual representation of a design that shows how a product will look, function and other before its fully developed

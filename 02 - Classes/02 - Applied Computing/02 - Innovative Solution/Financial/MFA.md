@@ -1,0 +1,35 @@
+[[02 - Functions and capabilities]]
+- using multi-factor authentication
+- OTP - **USE TERMINOLOgy ONE TIME PASSWORD**
+- password
+- email recovery
+- evidence of login
+
+**Examples**
+- Security token
+	- Physical key
+	- OTP to appear on the key
+- Personal Identification number
+	- PIN
+	- used in the GELDAUTOMATGELDAUTOMATGELDAUTOMATGELDAUTOMATGELDAUTOMAT
+	- pins provided aloungside username and password
+	- used in online fincancial
+	- sent to the user via SMS email or QR code
+- SMS-Bassed
+	- OTP sent to pre registered SMS phone number
+	- May reply
+	- may contain code
+- Email verification
+	- Send OTP to email
+	- hyperlink to email
+	- email confirmation
+- QR code verifcation
+	- Scan w/ mobile phone
+	- UwU
+- Secret Question
+	- Secret question and answer
+- Location-based factors
+	- use of IP data
+	- determine location
+	- indetify "strange patterns"
+	- 
