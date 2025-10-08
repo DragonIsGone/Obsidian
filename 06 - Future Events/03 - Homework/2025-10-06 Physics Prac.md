@@ -1,8 +1,8 @@
 ---
 title: Physics Prac
 allDay: false
-startTime: 17:30
-endTime: 18:00
+startTime: 18:00
+endTime: 18:30
 date: 2025-10-06
 completed: null
 type: single
