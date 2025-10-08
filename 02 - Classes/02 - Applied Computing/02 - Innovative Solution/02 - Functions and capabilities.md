@@ -28,7 +28,26 @@ tags:
 	[[Electrong]]
 	
 ### Global positioning system (GPS)
+[[GPS]]
 
 ### Robotics
+- Used in:
+	- Agriculture
+	- Farming
+	- manufacturing
+	- medical
+	- millitary
+- Controled by automation or
+- **Have**
+	- Brain (optional)
+	- physical structure
+	- software 
 
 ### Traffic management
+- Designed to flow traffic
+- **improve road saftey through:**
+	- red light camera
+	- speed camera
+- speed cameras used radar to bounce
+- uses sensors to detect car position at red lights and fines if infringes on the line
+- 

@@ -59,6 +59,24 @@
             "id": "c70c2b729bcd6a47",
             "type": "leaf",
             "state": {
+              "type": "beautitab-react-view",
+              "state": {},
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "8e285c38c0bf7cbd",
+            "type": "leaf",
+            "state": {
+              "type": "beautitab-react-view",
+              "state": {},
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "e1d309726d5b11d7",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "conflict-files-obsidian-git.md",
@@ -71,7 +89,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -197,9 +215,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c70c2b729bcd6a47",
+  "active": "e1d309726d5b11d7",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
+    "06 - Future Events/03 - Homework/2025-10-08 Viscom.md",
+    "06 - Future Events/03 - Homework/2025-10-08 Physics.md",
+    "06 - Future Events/03 - Homework/2025-10-08 Methods Practice Test.md",
+    "03 - Projects/03 - Visual Communication Design/02 - Unit 2/AOS - 2/Jersey.Finalindd.pdf",
+    "03 - Projects/03 - Visual Communication Design/02 - Unit 2/AOS - 2/Jersey.Finalindd.indd",
+    "02 - Classes/04 - Physics/02 - Unit 2/02 - Forces/03 - Work and Energy.md",
+    "02 - Classes/04 - Physics/02 - Unit 2/02 - Forces/02 - Exercise 10.3.md",
+    "02 - Classes/02 - Applied Computing/02 - Innovative Solution/GPS.md",
     "maxresdefault-1381152734.jpg",
     "06 - Future Events/01 - Upcoming Assesments/2025-11-17 Exams.md",
     "06 - Future Events/01 - Upcoming Assesments/2025-10-31 Doomsday (GEM 3+4).md",
@@ -226,18 +252,10 @@
     "06 - Future Events/02 - School Events/2025-10-10 Haus Lunch.md",
     "02 - Classes/03 - English/02 - Analysis of argument/10 - Executive Summary.md",
     "06 - Future Events/03 - Homework/2025-10-06 Viscom Jersey.md",
-    "06 - Future Events/03 - Homework/2025-10-06 Physics Prac.md",
-    "06 - Future Events/03 - Homework/2025-10-06 Maths Methods.md",
-    "06 - Future Events/03 - Homework/2025-10-06 Maths General.md",
-    "06 - Future Events/02 - School Events/2025-11-28 Le Finne.md",
-    "06 - Future Events/02 - School Events/2025-10-11 Open day (who gives a fuck).md",
-    "06 - Future Events/02 - School Events/2025-10-10 Haus Lunch.md",
     "03 - Projects/03 - Visual Communication Design/02 - Unit 2/AOS - 2/Jersey.pdf",
     "03 - Projects/03 - Visual Communication Design/02 - Unit 2/AOS - 2/Jersey.indd",
     "03 - Projects/03 - Visual Communication Design/02 - Unit 2/AOS - 2/Jersey - corrected citations.pdf",
     "03 - Projects/03 - Visual Communication Design/02 - Unit 2/AOS - 2/JERSEY.png",
-    "02 - Classes/04 - Physics/02 - Unit 2/02 - Forces",
-    "03 - Projects/03 - Visual Communication Design/02 - Unit 2/AOS - 2",
     "03 - Projects/03 - Visual Communication Design/02 - Unit 2/AOS - 1/Architecture Presentation interior.png",
     "03 - Projects/03 - Visual Communication Design/02 - Unit 2/AOS - 1/persp elevation/roundug-top-dimen.png",
     "03 - Projects/03 - Visual Communication Design/02 - Unit 2/AOS - 1/persp elevation/roundug-round-dimensoin.png",
