@@ -1,97 +1,65 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "-path:\"06 - Future Events\"  ",
   "showTags": true,
-  "showAttachments": true,
+  "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:\"02 - Classes/02 - Applied Computing\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 16755200
-      }
-    },
-    {
-      "query": "path: \"02 - Classes/03 - English\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 16711680
-      }
-    },
-    {
-      "query": "path: \"02 - Classes/04 - Physics\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 65280
-      }
-    },
-    {
-      "query": "path:\"02 - Classes/05 - Visual Communication Design\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 65531
-      }
-    },
-    {
-      "query": "file:\"Home\"",
-      "color": {
-        "a": 1,
-        "rgb": 5419488
-      }
-    },
-    {
-      "query": "path:\"06 - Future Events\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 5395168
-      }
-    },
-    {
-      "query": "path:\"02 - Classes/00 - Math General\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 11621088
-      }
-    },
-    {
-      "query": "path:\"02 - Classes/01 - Math Methods\" path:",
-      "color": {
-        "a": 1,
-        "rgb": 14701233
-      }
-    },
-    {
-      "query": "path:\"03 - Projects/01 - Applied Computing\"  ",
+      "query": "path:\"01 - Home\"  ",
       "color": {
         "a": 1,
         "rgb": 14701138
       }
     },
     {
-      "query": "path:\"00 - Daily Notes\"  ",
+      "query": "path:\"02 - Classes\"  ",
       "color": {
         "a": 1,
-        "rgb": 16123106
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:\"03 - Projects\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:\"04 - Images\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "path:\"05 - Meta\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "path:\"06 - Future Events\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": -3,
-  "nodeSizeMultiplier": 2.09221453287197,
-  "lineSizeMultiplier": 1.53269896193772,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.185121107266436,
-  "repelStrength": 18.6505190311419,
-  "linkStrength": 0.385813148788927,
-  "linkDistance": 185,
-<<<<<<< HEAD
-  "scale": 0.012244973299540579,
-=======
-  "scale": 0.033666662281036396,
->>>>>>> origin/master
+  "centerStrength": 0.655709342560554,
+  "repelStrength": 15.9515570934256,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.16739058725382447,
   "close": false
 }
