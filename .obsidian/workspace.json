@@ -62,15 +62,12 @@
             "id": "2e1cb050673b6eae",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Test.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "maxresdefault-1381152734.jpg"
               },
-              "icon": "lucide-file",
-              "title": "Test"
+              "icon": "lucide-image",
+              "title": "maxresdefault-1381152734"
             }
           }
         ],
@@ -200,9 +197,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2e1cb050673b6eae",
+  "active": "2603c1c1550366a9",
   "lastOpenFiles": [
     "Test.md",
+    "maxresdefault-1381152734.jpg",
     "02 - Classes/02 - Applied Computing/02 - Innovative Solution/02 - Functions and capabilities.md",
     "02 - Classes/02 - Applied Computing/02 - Innovative Solution/GPS.md",
     "03 - Projects/03 - Visual Communication Design/02 - Unit 2/AOS - 2/00 - Cultural Research.md",
@@ -218,7 +216,6 @@
     "06 - Future Events/03 - Homework/2025-10-08 Physics.md",
     "06 - Future Events/03 - Homework/2025-10-08 Methods Practice Test.md",
     "02 - Classes/00 - Math General/GeneralTextbook.pdf",
-    "maxresdefault-1381152734.jpg",
     "02 - Classes/02 - Applied Computing/02 - Innovative Solution/Financial/Fraud Detection.md",
     "02 - Classes/02 - Applied Computing/02 - Innovative Solution/Financial/MFA.md",
     "02 - Classes/02 - Applied Computing/02 - Innovative Solution/Assistive/Assistive Aids.md",
@@ -239,7 +236,6 @@
     "02 - Classes/02 - Applied Computing/02 - Innovative Solution/Functions/Untitled",
     "02 - Classes/03 - English/02 - Analysis of argument/11 - Commercialisation of Nature.md",
     "02 - Classes/02 - Applied Computing/03 - Function and capabilities/00 - Fucntions.md",
-    "06 - Future Events/00 - To do/2025-11-04 Melbourne Cup.md",
     "03 - Projects/03 - Visual Communication Design/02 - Unit 2/AOS - 2/JERSEY.png",
     "03 - Projects/03 - Visual Communication Design/02 - Unit 2/AOS - 1/Architecture Presentation interior.png",
     "03 - Projects/03 - Visual Communication Design/02 - Unit 2/AOS - 1/persp elevation/roundug-top-dimen.png",
