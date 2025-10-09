@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "ed63030a195b58fd",
+            "id": "7d93d81d55e0e1d5",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -30,66 +30,9 @@
               "icon": "lucide-file-text",
               "title": "GeneralTextbook"
             }
-          },
-          {
-            "id": "fcccfb037c3527dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Classes/00 - Math General/Study Prio.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Study Prio"
-            }
-          },
-          {
-            "id": "987045cbd38e9a2e",
-            "type": "leaf",
-            "state": {
-              "type": "beautitab-react-view",
-              "state": {},
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "c70c2b729bcd6a47",
-            "type": "leaf",
-            "state": {
-              "type": "beautitab-react-view",
-              "state": {},
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "8e285c38c0bf7cbd",
-            "type": "leaf",
-            "state": {
-              "type": "beautitab-react-view",
-              "state": {},
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "e1d309726d5b11d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#physics",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -146,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "9e0a075f6262c542",
@@ -156,6 +100,16 @@
         "id": "4554109ed43dfdc0",
         "type": "tabs",
         "children": [
+          {
+            "id": "0a8809d59b691126",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
+              "icon": "calendar-clock",
+              "title": "Timeline"
+            }
+          },
           {
             "id": "f73a0041bea06146",
             "type": "leaf",
@@ -175,19 +129,9 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "79fae3bc695fe7d2",
-            "type": "leaf",
-            "state": {
-              "type": "planner-timeline",
-              "state": {},
-              "icon": "calendar-clock",
-              "title": "Timeline"
-            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -202,7 +146,6 @@
       "canvas:Create new canvas": true,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": true,
-      "workspaces:Manage workspace layouts": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-day-planner:Open Timeline": false,
       "obsidian-day-planner:Open Multi-Day View": false,
@@ -211,50 +154,52 @@
       "homepage:Open homepage": false,
       "obsidian-kanban:Create new board": false,
       "obsidian-projects:Open projects": false,
+      "workspaces:Manage workspace layouts": false,
       "obsidian-importer:Open Importer": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e1d309726d5b11d7",
+  "active": "7d93d81d55e0e1d5",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "02 - Classes/01 - Math Methods/Methods Textbook.pdf",
+    "04 - Images/04 - Physics/shitpost.ai",
+    "04 - Images/04 - Physics/~ai-07b38a98-1fa3-48d9-afe7-2cc2d8fe378b_.tmp",
+    "02 - Classes/02 - Applied Computing/02 - Innovative Solution/02 - Functions and capabilities.md",
+    "04 - Images/04 - Physics/SVG/Artboard 1.svg",
+    "04 - Images/04 - Physics/SVG",
+    "02 - Classes/03 - English/02 - Analysis of argument/11 - Commercialisation of Nature.md",
+    "03 - Projects/03 - Visual Communication Design/02 - Unit 2/AOS - 2/00 - Cultural Research.md",
+    "maxresdefault-1381152734.jpg",
+    "Test.md",
+    "02 - Classes/02 - Applied Computing/02 - Innovative Solution/GPS.md",
+    "03 - Projects/03 - Visual Communication Design/02 - Unit 2/AOS - 2/Jersey.Finalindd.pdf",
+    "03 - Projects/03 - Visual Communication Design/02 - Unit 2/AOS - 2/~jersey.finalindd~q_)4o_.idlk",
+    "03 - Projects/03 - Visual Communication Design/02 - Unit 2/AOS - 2/Jersey.Finalindd.indd",
+    "02 - Classes/04 - Physics/02 - Unit 2/02 - Forces/03 - Work and Energy.md",
+    "03 - Projects/02 - Physics/~$U2AOS3 Investigation template.tmp",
+    "02 - Classes/04 - Physics/02 - Unit 2/02 - Forces/01 - Momentum and impulse.md",
+    "02 - Classes/04 - Physics/02 - Unit 2/02 - Forces/02 - Exercise 10.3.md",
     "06 - Future Events/03 - Homework/2025-10-08 Viscom.md",
     "06 - Future Events/03 - Homework/2025-10-08 Physics.md",
     "06 - Future Events/03 - Homework/2025-10-08 Methods Practice Test.md",
-    "03 - Projects/03 - Visual Communication Design/02 - Unit 2/AOS - 2/Jersey.Finalindd.pdf",
-    "03 - Projects/03 - Visual Communication Design/02 - Unit 2/AOS - 2/Jersey.Finalindd.indd",
-    "02 - Classes/04 - Physics/02 - Unit 2/02 - Forces/03 - Work and Energy.md",
-    "02 - Classes/04 - Physics/02 - Unit 2/02 - Forces/02 - Exercise 10.3.md",
-    "02 - Classes/02 - Applied Computing/02 - Innovative Solution/GPS.md",
-    "maxresdefault-1381152734.jpg",
-    "06 - Future Events/01 - Upcoming Assesments/2025-11-17 Exams.md",
-    "06 - Future Events/01 - Upcoming Assesments/2025-10-31 Doomsday (GEM 3+4).md",
-    "06 - Future Events/00 - To do/2025-11-04 Melbourne Cup.md",
-    "04 - Images/05 - Visual Communication Design/Symbols.jpg",
-    "03 - Projects/03 - Visual Communication Design/02 - Unit 2/AOS - 2/Illustrator Jersey Template.ai",
-    "02 - Classes/02 - Applied Computing/02 - Innovative Solution/Financial/NFC.md",
-    "02 - Classes/02 - Applied Computing/02 - Innovative Solution/Financial/MFA.md",
-    "02 - Classes/02 - Applied Computing/02 - Innovative Solution/Financial/Fraud Detection.md",
-    "02 - Classes/02 - Applied Computing/02 - Innovative Solution/Financial/Electronic Fund Token.md",
-    "02 - Classes/02 - Applied Computing/02 - Innovative Solution/Financial/Customer Service.md",
-    "02 - Classes/02 - Applied Computing/02 - Innovative Solution/Financial",
-    "02 - Classes/02 - Applied Computing/02 - Innovative Solution/Assistive/Personal emergency response systems.md",
-    "02 - Classes/02 - Applied Computing/02 - Innovative Solution/Assistive/Mobility aids.md",
-    "02 - Classes/02 - Applied Computing/02 - Innovative Solution/Assistive/Home Automation.md",
-    "02 - Classes/02 - Applied Computing/02 - Innovative Solution/Assistive/Cognitive aids.md",
-    "02 - Classes/02 - Applied Computing/02 - Innovative Solution/Assistive/Assistive Aids.md",
-    "02 - Classes/02 - Applied Computing/02 - Innovative Solution/Assistive",
-    "02 - Classes/02 - Applied Computing/02 - Innovative Solution/02 - Functions and capabilities.md",
     "02 - Classes/00 - Math General/GeneralTextbook.pdf",
-    "02 - Classes/03 - English/02 - Analysis of argument/11 - Commercialisation of Nature.md",
-    "02 - Classes/00 - Math General/Study Prio.md",
-    "02 - Classes/01 - Math Methods/Methods Textbook.pdf",
-    "06 - Future Events/02 - School Events/2025-10-10 Haus Lunch.md",
-    "02 - Classes/03 - English/02 - Analysis of argument/10 - Executive Summary.md",
-    "06 - Future Events/03 - Homework/2025-10-06 Viscom Jersey.md",
-    "03 - Projects/03 - Visual Communication Design/02 - Unit 2/AOS - 2/Jersey.pdf",
-    "03 - Projects/03 - Visual Communication Design/02 - Unit 2/AOS - 2/Jersey.indd",
-    "03 - Projects/03 - Visual Communication Design/02 - Unit 2/AOS - 2/Jersey - corrected citations.pdf",
+    "02 - Classes/02 - Applied Computing/02 - Innovative Solution/Financial/Fraud Detection.md",
+    "02 - Classes/02 - Applied Computing/02 - Innovative Solution/Financial/MFA.md",
+    "02 - Classes/02 - Applied Computing/02 - Innovative Solution/Assistive/Assistive Aids.md",
+    "02 - Classes/02 - Applied Computing/02 - Innovative Solution/Assistive/Cognitive aids.md",
+    "02 - Classes/02 - Applied Computing/02 - Innovative Solution/Assistive/Home Automation.md",
+    "02 - Classes/02 - Applied Computing/02 - Innovative Solution/Assistive/Mobility aids.md",
+    "02 - Classes/02 - Applied Computing/02 - Innovative Solution/Financial/NFC.md",
+    "02 - Classes/02 - Applied Computing/02 - Innovative Solution/Financial/Customer Service.md",
+    "03 - Projects/03 - Visual Communication Design/02 - Unit 2/AOS - 2/Illustrator Jersey Template.ai",
+    "03 - Projects/03 - Visual Communication Design/02 - Unit 2/AOS - 2/~ai-0abb32df-fc97-4f02-992c-a67fad9c5f40_.tmp",
+    "04 - Images/05 - Visual Communication Design/Symbols.jpg",
+    "02 - Classes/02 - Applied Computing/02 - Innovative Solution/Financial/Electronic Fund Token.md",
+    "02 - Classes/02 - Applied Computing/02 - Innovative Solution/Assistive/Personal emergency response systems.md",
+    "01 - Home/Purchase List.md",
+    "02 - Classes/02 - Applied Computing/02 - Innovative Solution/00 - Problem solving meth.md",
+    "02 - Classes/02 - Applied Computing/02 - Innovative Solution/01 - Design Stage.md",
+    "02 - Classes/02 - Applied Computing/03 - Function and capabilities/00 - Fucntions.md",
     "03 - Projects/03 - Visual Communication Design/02 - Unit 2/AOS - 2/JERSEY.png",
     "03 - Projects/03 - Visual Communication Design/02 - Unit 2/AOS - 1/Architecture Presentation interior.png",
     "03 - Projects/03 - Visual Communication Design/02 - Unit 2/AOS - 1/persp elevation/roundug-top-dimen.png",
@@ -262,7 +207,6 @@
     "04 - Images/05 - Visual Communication Design/Arch/00 - Inspiration/chrysler.jpg",
     "04 - Images/05 - Visual Communication Design/Arch/00 - Inspiration/Manchester-Unity-Building-1.jpg",
     "04 - Images/05 - Visual Communication Design/Arch/Manchester-Unity-Building-1.jpg",
-    "04 - Images/05 - Visual Communication Design/Arch/Manchester_Unity_Building_Collins_Street.jpg",
     "01 - Home/Home.canvas",
     "Untitled.canvas"
   ]
