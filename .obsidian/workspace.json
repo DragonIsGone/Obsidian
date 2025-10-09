@@ -23,12 +23,15 @@
             "id": "7d93d81d55e0e1d5",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "02 - Classes/00 - Math General/GeneralTextbook.pdf"
+                "file": "02 - Classes/03 - English/02 - Analysis of argument/11 - Commercialisation of Nature.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-file-text",
-              "title": "GeneralTextbook"
+              "icon": "lucide-file",
+              "title": "11 - Commercialisation of Nature"
             }
           }
         ],
@@ -89,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "9e0a075f6262c542",
@@ -162,8 +164,8 @@
   },
   "active": "7d93d81d55e0e1d5",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "02 - Classes/00 - Math General/GeneralTextbook.pdf",
+    "conflict-files-obsidian-git.md",
     "02 - Classes/01 - Math Methods/Methods Textbook.pdf",
     "04 - Images/04 - Physics/shitpost.ai",
     "04 - Images/04 - Physics/~ai-07b38a98-1fa3-48d9-afe7-2cc2d8fe378b_.tmp",
