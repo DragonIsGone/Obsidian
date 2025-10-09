@@ -17,6 +17,15 @@
 - linnk quote from text to visuals provided
 - Support analysis with relavent evidence (quotes) 
 
+- in the body, track the arguments, consider their development - ways that arguments build on each
+- Topic scentence, outline argument - use 2-3 scentences
+
+**Move analysis of language**
+	- appeals
+	- connogtation
+	- tone
+	- allusions
+	- smililes/metaphores
 
 The Victorian National Parks Department put forward an executive summary of "Alpine Crossing Master Plan 2017 Executive Summary." The executive summary focuses on the redevelopment of the alpine national park area. The underlying argument of the executive summary is the ethical usage of public assets to develop revenue to benefit surrounding communities. The executive summary strongly emphasises the continuing ecenomic benefits of the redvelopment and how the funds can benefit the local cumminities. This is contrasted by Katherine  R's contribution to the "Community Input" in disputing the proposed plans of giving up public assets to private companies who look to take the scenic parts of the national park and charge an arm and a leg to see and stay there. Katherine's goal is to warn about the potential long term loses the people may have if they let the serine national park fall under private control and is subject to exploitation.
 
