@@ -135,7 +135,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268.5
+    "width": 268.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,10 +160,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2603c1c1550366a9",
+  "active": "7d93d81d55e0e1d5",
   "lastOpenFiles": [
-    "02 - Classes/00 - Math General/GeneralTextbook.pdf",
     "conflict-files-obsidian-git.md",
+    "02 - Classes/00 - Math General/GeneralTextbook.pdf",
     "02 - Classes/01 - Math Methods/Methods Textbook.pdf",
     "04 - Images/04 - Physics/shitpost.ai",
     "04 - Images/04 - Physics/~ai-07b38a98-1fa3-48d9-afe7-2cc2d8fe378b_.tmp",
