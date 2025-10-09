@@ -135,8 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268.5,
-    "collapsed": true
+    "width": 268.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,9 +159,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7d93d81d55e0e1d5",
+  "active": "2603c1c1550366a9",
   "lastOpenFiles": [
     "02 - Classes/00 - Math General/GeneralTextbook.pdf",
+    "conflict-files-obsidian-git.md",
     "02 - Classes/01 - Math Methods/Methods Textbook.pdf",
     "04 - Images/04 - Physics/shitpost.ai",
     "04 - Images/04 - Physics/~ai-07b38a98-1fa3-48d9-afe7-2cc2d8fe378b_.tmp",
@@ -193,14 +193,12 @@
     "02 - Classes/02 - Applied Computing/02 - Innovative Solution/Financial/NFC.md",
     "02 - Classes/02 - Applied Computing/02 - Innovative Solution/Financial/Customer Service.md",
     "03 - Projects/03 - Visual Communication Design/02 - Unit 2/AOS - 2/Illustrator Jersey Template.ai",
-    "03 - Projects/03 - Visual Communication Design/02 - Unit 2/AOS - 2/~ai-0abb32df-fc97-4f02-992c-a67fad9c5f40_.tmp",
     "04 - Images/05 - Visual Communication Design/Symbols.jpg",
     "02 - Classes/02 - Applied Computing/02 - Innovative Solution/Financial/Electronic Fund Token.md",
     "02 - Classes/02 - Applied Computing/02 - Innovative Solution/Assistive/Personal emergency response systems.md",
     "01 - Home/Purchase List.md",
     "02 - Classes/02 - Applied Computing/02 - Innovative Solution/00 - Problem solving meth.md",
     "02 - Classes/02 - Applied Computing/02 - Innovative Solution/01 - Design Stage.md",
-    "02 - Classes/02 - Applied Computing/03 - Function and capabilities/00 - Fucntions.md",
     "03 - Projects/03 - Visual Communication Design/02 - Unit 2/AOS - 2/JERSEY.png",
     "03 - Projects/03 - Visual Communication Design/02 - Unit 2/AOS - 1/Architecture Presentation interior.png",
     "03 - Projects/03 - Visual Communication Design/02 - Unit 2/AOS - 1/persp elevation/roundug-top-dimen.png",
