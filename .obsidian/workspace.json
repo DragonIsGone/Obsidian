@@ -18,8 +18,18 @@
               "icon": "calendar-glyph",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "df2ff5b8a07e1b33",
+            "type": "leaf",
+            "state": {
+              "type": "beautitab-react-view",
+              "state": {},
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,7 +156,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "172587131a14a1a2",
+  "active": "df2ff5b8a07e1b33",
   "lastOpenFiles": [
     "02 - Classes/03 - English/02 - Analysis of argument/11 - Commercialisation of Nature.md",
     "02 - Classes/00 - Math General/GeneralTextbook.pdf",
